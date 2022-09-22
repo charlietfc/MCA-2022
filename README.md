@@ -1,2 +1,8 @@
-# MCA
-\[Enter your responses to Week 1, tasks 2 and 3 here\]
+# Charlie Curtis MCA Project
+my page
+
+new paragraph 
+
+## sub heading
+
+sub heading has two hashtags
