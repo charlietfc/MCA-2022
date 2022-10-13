@@ -17,5 +17,5 @@ I ended up choosing Debussy's L51. The pdf imported well enough aside from the f
 
 ## Week 3 Write Up
 
-[Verovio MEI Score and Write Up]https://charlietfc.github.io/MCA-2022/verovio.html
+[Verovio MEI Score and Write Up](https://charlietfc.github.io/MCA-2022/verovio.html)
 
