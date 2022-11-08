@@ -25,3 +25,15 @@ I ended up choosing Debussy's L51. The pdf imported well enough aside from the f
 <img width="369" alt="histogram for debussy" src="https://user-images.githubusercontent.com/113994507/195602256-ff9070e3-96fd-445e-98b6-5375b3e1f49b.png">
 
 <img width="369" alt="scatter plot for debussy" src="https://user-images.githubusercontent.com/113994507/195602276-5b370930-0f54-4eba-b64c-b0f761c14903.png">
+
+## Week 5 Write Up
+
+Choosing a metadata schema: the choices of metadata I opted for was decided based on a combination of what I thought was necessary and the information I had available to me for the specific work I chose - Debussy's Valse Romantique 
+these were the options I went for:
+<styleName> - within <title>, indicates genre
+<respStmt> - to give my name as having encoded the file 
+<distributor> - within the <pubStmt> - gives describition of English distributor of French publishing
+<publisher> - gave French publisher
+<address> - address of French publisher
+<notesStmt> - to give information on licensing data 
+
