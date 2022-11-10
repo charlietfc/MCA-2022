@@ -39,4 +39,26 @@ these were the options I went for:
 
 ## Week 8 Write Up
 
-![image](valse_waveform.png)
+Waveform and Spectrogram for Valse Romantique, L. 71
+ 
+ ![image](valse_waveform.png)
+ 
+ ![image](valse_spectrogram.png)
+ 
+Waveform and Spectrogram for Images I, L110: III. Mouvement 
+ 
+ ![image](mouvement_waveform.png)
+ 
+ ![image](mouvement_spectrogram.png)
+ 
+Waveform and Spectrogram for Danse Bohémienne, L. 9
+ 
+ ![image](bohemienne_waveform.png)
+ 
+ ![image](bohemienne_spectrogram)
+ 
+ 
+ 
+ 
+ 
+ 
