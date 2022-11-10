@@ -51,11 +51,11 @@ Waveform and Spectrogram for Images I, L110: III. Mouvement
  
  ![image](mouvement_spectrogram.png)
  
-Waveform and Spectrogram for Danse Bohémienne, L. 9
+### Waveform and Spectrogram for Danse Bohémienne, L. 9
  
  ![image](bohemienne_waveform.png)
  
- ![image](bohemienne_spectrogram)
+ ![image](bohemienne_spectrogram.png)
  
  
  
