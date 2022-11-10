@@ -39,13 +39,13 @@ these were the options I went for:
 
 ## Week 8 Write Up
 
-Waveform and Spectrogram for Valse Romantique, L. 71
+### Waveform and Spectrogram for Valse Romantique, L. 71
  
  ![image](valse_waveform.png)
  
  ![image](valse_spectrogram.png)
  
-Waveform and Spectrogram for Images I, L110: III. Mouvement 
+### Waveform and Spectrogram for Images I, L110: III. Mouvement 
  
  ![image](mouvement_waveform.png)
  
