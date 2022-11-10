@@ -37,3 +37,6 @@ these were the options I went for:
 <address> - address of French publisher
 <notesStmt> - to give information on licensing data 
 
+## Week 8 Write Up
+
+![image](valse_waveform.png)
