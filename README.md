@@ -63,9 +63,9 @@ these were the options I went for:
 
 ### 20 MFCC Histograms and 12 Chromagram Histograms for Prelude 1. Danseuses de Delphes. L. 117
 
-![image](Prelude_1_histograms.png)
+ ![image](Prelude_1_histograms.png)
 
-![image](Prelude_1_12chromagrams.png)
+ ![image](Prelude_1_12chromagrams.png)
 
  
  
