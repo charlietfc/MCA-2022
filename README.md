@@ -72,6 +72,10 @@ these were the options I went for:
 
 ![image](debussysimilaritymatrix.png)
 
+![image](debussychromagramdifferences.png)
+
+![image](debussy2Ddistance.png)
+
  
  
  
