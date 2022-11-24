@@ -67,8 +67,21 @@ these were the options I went for:
 
  ![image](Prelude_1_12chromagrams.png)
  
+ ### Prelude 2. Voiles. L. 117
  
-## Week 10 Write Up
+ ![image](Prelude_2_histograms.png)
+
+ ![image](Prelude_2_12chromagrams.png)
+ 
+ ### Prelude 3. Le Vent Dans le Plaine. L. 117
+ 
+ ![image](Prelude_3_histograms.png)
+
+ ![image](Prelude_3_12chromagrams.png)
+ 
+ 
+ 
+ ## Week 10 Write Up
 
 ### Debussy Preludes Similarity Graphs
 
