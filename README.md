@@ -70,11 +70,23 @@ these were the options I went for:
  
 ## Week 10 Write Up
 
+### Debussy Preludes Similarity Graphs
+
 ![image](debussysimilaritymatrix.png)
 
 ![image](debussychromagramdifferences.png)
 
 ![image](debussy2Ddistance.png)
+
+### Debussy Valse Romantique Transcription Comparison 
+
+
+#### Original Transcription 
+![image](Debussy_L71_MEI-1.png)
+
+
+#### Sonic Visualiser Transcription 
+![image](Debussy_L71_midi-1.png)
 
  
  
