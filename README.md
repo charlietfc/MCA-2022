@@ -66,6 +66,11 @@ these were the options I went for:
  ![image](Prelude_1_histograms.png)
 
  ![image](Prelude_1_12chromagrams.png)
+ 
+ 
+## Week 10 Write Up
+
+![image](debussysimilaritymatrix.png)
 
  
  
