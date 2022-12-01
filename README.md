@@ -1,6 +1,6 @@
 # Charlie Curtis MCA Project
 
-[__WEEK 1__](https://charlietfc.github.io/MCA-2022/#week-1-write-up) | [__WEEK 2__](https://charlietfc.github.io/MCA-2022/#week-2-write-up) | [__WEEK 3__](https://charlietfc.github.io/MCA-2022/#week-3-write-up) | [__WEEK 4__](https://charlietfc.github.io/MCA-2022/#week-4-write-up) | [__WEEK 5__](https://charlietfc.github.io/MCA-2022/#week-5-write-up)
+[__WEEK 1__](https://charlietfc.github.io/MCA-2022/#week-1-write-up) | [__WEEK 2__](https://charlietfc.github.io/MCA-2022/#week-2-write-up) | [__WEEK 3__](https://charlietfc.github.io/MCA-2022/#week-3-write-up) | [__WEEK 4__](https://charlietfc.github.io/MCA-2022/#week-4-write-up) | [__WEEK 5__](https://charlietfc.github.io/MCA-2022/#week-5-write-up) | [__WEEK 8__](https://charlietfc.github.io/MCA-2022/#week-8-write-up) | [__WEEK 9__](https://charlietfc.github.io/MCA-2022/#week-9-write-up) | [__WEEK 10__](
 
 ## Week 1 Write Up
 
@@ -32,13 +32,21 @@ I ended up choosing Debussy's L51. The pdf imported well enough aside from the f
 
 Choosing a metadata schema: the choices of metadata I opted for was decided based on a combination of what I thought was necessary and the information I had available to me for the specific work I chose - Debussy's Valse Romantique 
 these were the options I went for:
+
 styleName - within 'title', indicates genre
+
 respStmt - to give my name as having encoded the file 
+
 persName - to give the composer's name 
-distributor - within the <pubStmt> - gives describition of English distributor of French publishing
+
+distributor - within 'pubStmt' - gives describition of English distributor of French publishing
+
 date - the date the piece was released 
+
 publisher - gave French publisher
+
 address - address of French publisher
+
 notesStmt - to give information on licensing data 
 
 ## Week 8 Write Up
@@ -85,7 +93,7 @@ notesStmt - to give information on licensing data
  
  
  
- ## Week 10 Write Up
+## Week 10 Write Up
 
 ### Debussy Preludes Similarity Graphs
 
