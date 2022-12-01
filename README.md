@@ -49,6 +49,12 @@ address - address of French publisher
 
 notesStmt - to give information on licensing data 
 
+## Week 7 Write Up
+
+[Verovio Website With Metadata](https://charlietfc.github.io/MCA-2022/CCCss.html)
+
+Here is my Verovio Website with the updated and formatted Metadata. As is visible I couldn't quite line everything up but the basic ideas are there. I did have to go back to edit the MEI file as it sometimes wasn't clear, such as with the publisher and the distributor, what the metadata was actually referring to. Therefore I had to add descriptive names in the MEI code.
+
 ## Week 8 Write Up
 
 ### Waveform and Spectrogram for Valse Romantique, L. 71
