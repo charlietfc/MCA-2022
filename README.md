@@ -1,7 +1,4 @@
 # Charlie Curtis MCA Project
-my page
-
-new paragraph 
 
 ## Week 1 Write Up
 
