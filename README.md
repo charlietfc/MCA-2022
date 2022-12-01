@@ -13,7 +13,7 @@ Debussy’s work is well documented and recorded. All of his scores are availabl
 
 I started by thinking I would try to transcribe a Debussy Orchestral work, but on discussion with Josh I realized this would be hard to pursue later down the line due to transposing instruments. I then went for a debussy piece for cello and piano, The Cello Sonata prologue. But when I imported it into Musescore the score was almost unrecognisable, parts had been stretched out and voice parts had been added randomly. I thought it best to choose a simpler piece.
 
-I ended up choosing Debussy's L51. The pdf imported well enough aside from the fact that it was in 2/4 whereas the original score is in 3/4. When I tried to convert it to 3/4 Musescore crashed. So I started switching the score to 3/4 in small chunks, working backwards. Josh then told me I could just do 20 bars which I easily converted. There were then not many changes to make to the score apart from the odd duration issue, missing note or missing articulations and dynamics. 
+I ended up choosing Debussy's L51. The pdf imported well enough aside from the fact that it was in 2/4 whereas the original score is in 3/4. When I tried to convert it to 3/4 Musescore crashed. So I started switching the score to 3/4 in small chunks, working backwards. Josh then told me I could just do 20 bars which I easily converted. There were then not many changes to make to the score apart from the odd duration issue, missing note or missing articulations and dynamics. Later on I went back to change it to just 10 bars, I had to edit these myself but the basis was from the Musescore Transcription 
 
 ## Week 3 Write Up
 
