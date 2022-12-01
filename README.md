@@ -32,14 +32,14 @@ I ended up choosing Debussy's L51. The pdf imported well enough aside from the f
 
 Choosing a metadata schema: the choices of metadata I opted for was decided based on a combination of what I thought was necessary and the information I had available to me for the specific work I chose - Debussy's Valse Romantique 
 these were the options I went for:
-<styleName> - within <title>, indicates genre
-<respStmt> - to give my name as having encoded the file 
-<persName> - to give the composer's name 
-<distributor> - within the <pubStmt> - gives describition of English distributor of French publishing
-<date> date the piece was released 
-<publisher> - gave French publisher
-<address> - address of French publisher
-<notesStmt> - to give information on licensing data 
+styleName - within <title>, indicates genre
+respStmt - to give my name as having encoded the file 
+persName - to give the composer's name 
+distributor - within the <pubStmt> - gives describition of English distributor of French publishing
+date - the date the piece was released 
+publisher - gave French publisher
+address - address of French publisher
+notesStmt - to give information on licensing data 
 
 ## Week 8 Write Up
 
