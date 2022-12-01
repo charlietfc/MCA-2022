@@ -32,7 +32,9 @@ Choosing a metadata schema: the choices of metadata I opted for was decided base
 these were the options I went for:
 <styleName> - within <title>, indicates genre
 <respStmt> - to give my name as having encoded the file 
+<persName> - to give the composer's name 
 <distributor> - within the <pubStmt> - gives describition of English distributor of French publishing
+<date> date the piece was released 
 <publisher> - gave French publisher
 <address> - address of French publisher
 <notesStmt> - to give information on licensing data 
@@ -100,6 +102,8 @@ these were the options I went for:
 
 #### Sonic Visualiser Transcription 
 ![image](Debussy_L71_midi-1.png)
+
+It is clear from 
 
  
  
