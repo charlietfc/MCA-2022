@@ -1,6 +1,6 @@
 # Charlie Curtis MCA Project
 
-[__WEEK 1__](https://charlietfc.github.io/MCA-2022/#week-1-write-up) | [__WEEK 2__](https://charlietfc.github.io/MCA-2022/#week-2-write-up) | [__WEEK 3__](https://charlietfc.github.io/MCA-2022/#week-3-write-up) | [__WEEK 4__](https://charlietfc.github.io/MCA-2022/#week-4-write-up) | [__WEEK 5__](https://charlietfc.github.io/MCA-2022/#week-5-write-up) | [__WEEK 7__] | [__WEEK 8__](https://charlietfc.github.io/MCA-2022/#week-8-write-up) | [__WEEK 9__](https://charlietfc.github.io/MCA-2022/#week-9-write-up) | [__WEEK 10__](https://charlietfc.github.io/MCA-2022/#week-10-write-up)
+[__WEEK 1__](https://charlietfc.github.io/MCA-2022/#week-1-write-up) | [__WEEK 2__](https://charlietfc.github.io/MCA-2022/#week-2-write-up) | [__WEEK 3__](https://charlietfc.github.io/MCA-2022/#week-3-write-up) | [__WEEK 4__](https://charlietfc.github.io/MCA-2022/#week-4-write-up) | [__WEEK 5__](https://charlietfc.github.io/MCA-2022/#week-5-write-up) | [__WEEK 7__](https://charlietfc.github.io/MCA-2022/#week-7-write-up) | [__WEEK 8__](https://charlietfc.github.io/MCA-2022/#week-8-write-up) | [__WEEK 9__](https://charlietfc.github.io/MCA-2022/#week-9-write-up) | [__WEEK 10__](https://charlietfc.github.io/MCA-2022/#week-10-write-up)
 
 ## Week 1 Write Up
 
