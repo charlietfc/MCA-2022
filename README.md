@@ -84,27 +84,45 @@ Here is my Verovio Website with the updated and formatted Metadata. As is visibl
 
 #### Prelude 1. Danseuses de Delphes
 
+![image](prelude1_spectro.png)
+
 #### Prelude 2. Voiles
 
+![image](prelude2_spectro.png)
+
 #### Prelude 3. Le Vent Dans le Plaine
+
+![image](prelude3_spectro.png)
 
 
 ### Chromagrams for the first 3 Debussy Preludes L. 117
 
 #### Prelude 1. Danseuses de Delphes
 
+![image](prelude1_chroma.png)
+
 #### Prelude 2. Voiles
 
+![image](prelude2_chroma.png)
+
 #### Prelude 3. Le Vent Dans le Plaine
+
+![image](prelude3_chroma.png)
 
 
 ### MFCCs for the first 3 Debussy Preludes L. 117
 
 #### Prelude 1. Danseuses de Delphes
 
+![image](prelude1_mfcc.png)
+
 #### Prelude 2. Voiles
 
+![image](prelude2_mfcc.png)
+
 #### Prelude 3. Le Vent Dans le Plaine
+
+![image](prelude3_mfcc.png)
 
 
 
