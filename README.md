@@ -57,6 +57,23 @@ Here is my Verovio Website with the updated and formatted Metadata. As is visibl
 
 ## Week 8 Write Up
 
+### Comparison Table
+
+   | Content | Track 1 | Track 2 | Track 3 |
+   | :------: | :------: | :------: | :------: |
+   | **Title** | Valse Romantique, L. 71 | Images I, L110: III. Mouvement | Danse Bohémienne, L. 9 |
+   | **Link To Recordings** | (https://www.youtube.com/watch?v=DGYGRtnYX0c) | (https://www.youtube.com/watch?v=W3GU4doYGAo) | (https://www.youtube.com/watch?v=NBNt3EkH8y8) |
+   | **Artist** | Zoltan Kocsis | Jean-Bernard Pommier | Jean-Efflam Bavouzet |
+   | **Composer** | Claude Debussy | Claude Debussy | Claude Debussy |
+   | **Copyright Info** | Public Domain | Public Domain | Public Domain |
+   | **Genre** | Impressionist Piano Music | Impressionist Piano Music | Impressionist Piano Music |
+   | **Source** | Youtube | Youtube | Youtube |
+   | **File/Audio Format** | MP3 | MP3 | MP3|
+   | **Number of Channels** | 2 | 2 | 2 |
+   | **Sample Rate** | 48kHz | 48kHz | 48kHz |
+   | **Bits per second** | 128kb/s | 128kb/s | 128kb/s |
+   | **Duration** | 3:05 minutes | 3:43 minutes | 1:58 minutes |
+
 ### Waveform, Spectrogram and MFCC for Valse Romantique, L. 71
  
  ![image](valse_waveform.png)
