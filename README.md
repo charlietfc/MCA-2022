@@ -171,10 +171,6 @@ Here is my Verovio Website with the updated and formatted Metadata. As is visibl
 
 ![image](debussysimilaritymatrix.png)
 
-![image](debussychromagramdifferences.png)
-
-![image](debussy2Ddistance.png)
-
 ### Debussy Valse Romantique Transcription Comparison 
 
 
@@ -185,7 +181,7 @@ Here is my Verovio Website with the updated and formatted Metadata. As is visibl
 #### Sonic Visualiser Transcription 
 ![image](Debussy_L71_midi-1.png)
 
-It is clear from 
+There are several differences between the original Debussy Valse Romantique score and the sonic visualiser transciption. The sonic visualiser transcription is in 4/4 whereas the original piece is in 3/4. It also contains to lines of bass clef instead of a one bass clef and one treble clef. There is later constant switching between bass and treble clef in the sonic visulaiser transcription. Throughout the entire trancription there are countless melodic and rhythmic inaccuracies and the whole piece is ultimatly unrecognisable from the original score. Overall, it is a inaccurate transcription that has lost most of the original information form the score it is based off of. 
 
  
  
