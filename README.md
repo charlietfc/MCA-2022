@@ -64,16 +64,11 @@ Here is my Verovio Website with the updated and formatted Metadata. As is visibl
  
  ![image](valse_spectrogram.png)
  
- 
- ![image](valse_MFCC.png
- 
 ### Waveform, Spectrogram and MFCC for Images I, L110: III. Mouvement 
  
  ![image](mouvement_waveform.png)
  
  ![image](mouvement_spectrogram.png)
- 
- ![image](mouvement_MFCC.png)
  
 ### Waveform, Spectrogram and MFCC for Danse Bohémienne, L. 9
  
@@ -81,13 +76,39 @@ Here is my Verovio Website with the updated and formatted Metadata. As is visibl
  
  ![image](bohemienne_spectrogram.png)
  
- ![image](bohemienne_MFCC.png)
- 
  An advantage of time frequency analysis over waveform analysis is that you can notice specifically 'musical' occurences within the piece through just a quick glance at the time frequency spectrogram. 'Musical' is obviously a broad term and in this context I mean something that would relate to the actual notes being played within the piece of music. For example in the time frequency spectrogram of Images I, L110: III. Mouvement it is easy to spot, near the end of the piece, an ascending phrase as a diagonal red line is showed on the graph. This would be very difficult to decode through the waveform. Another advantage is that the time frequency spectrogram shows the formants within the piece of music, these are noticeable in all of the graphs. As each of these pieces contain solo piano there is not huge variation in the formants shown, yet they are still interesting to observe as opposed to the waveforms which don't show them at all.
  
-In terms of MFCCs, the advantage they have over waveform analysis is that you can analyse the timbral qualities of an audio file and gain timbral information from the graph. This is very helpful as it gives data that is not at all present in a waveform diagram.
- 
 ## Week 9 Write Up
+
+### Spectrograms for the first 3 Debussy Preludes L. 117
+
+#### Prelude 1. Danseuses de Delphes
+
+#### Prelude 2. Voiles
+
+#### Prelude 3. Le Vent Dans le Plaine
+
+
+### Chromagrams for the first 3 Debussy Preludes L. 117
+
+#### Prelude 1. Danseuses de Delphes
+
+#### Prelude 2. Voiles
+
+#### Prelude 3. Le Vent Dans le Plaine
+
+
+### MFCCs for the first 3 Debussy Preludes L. 117
+
+#### Prelude 1. Danseuses de Delphes
+
+#### Prelude 2. Voiles
+
+#### Prelude 3. Le Vent Dans le Plaine
+
+
+
+
 
 ### 20 MFCC Histograms and 12 Chromagram Histograms for Prelude 1. Danseuses de Delphes. L. 117
 
