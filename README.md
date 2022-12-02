@@ -57,25 +57,35 @@ Here is my Verovio Website with the updated and formatted Metadata. As is visibl
 
 ## Week 8 Write Up
 
-### Waveform and Spectrogram for Valse Romantique, L. 71
+### Waveform, Spectrogram and MFCC for Valse Romantique, L. 71
  
  ![image](valse_waveform.png)
  
+ 
  ![image](valse_spectrogram.png)
  
-### Waveform and Spectrogram for Images I, L110: III. Mouvement 
+ 
+ ![image](valse_MFCC.png
+ 
+### Waveform, Spectrogram and MFCC for Images I, L110: III. Mouvement 
  
  ![image](mouvement_waveform.png)
  
  ![image](mouvement_spectrogram.png)
  
-### Waveform and Spectrogram for Danse Bohémienne, L. 9
+ ![image](mouvement_MFCC.png)
+ 
+### Waveform, Spectrogram and MFCC for Danse Bohémienne, L. 9
  
  ![image](bohemienne_waveform.png)
  
  ![image](bohemienne_spectrogram.png)
  
+ ![image](bohemienne_MFCC.png)
+ 
  An advantage of time frequency analysis over waveform analysis is that you can notice specifically 'musical' occurences within the piece through just a quick glance at the time frequency spectrogram. 'Musical' is obviously a broad term and in this context I mean something that would relate to the actual notes being played within the piece of music. For example in the time frequency spectrogram of Images I, L110: III. Mouvement it is easy to spot, near the end of the piece, an ascending phrase as a diagonal red line is showed on the graph. This would be very difficult to decode through the waveform. Another advantage is that the time frequency spectrogram shows the formants within the piece of music, these are noticeable in all of the graphs. As each of these pieces contain solo piano there is not huge variation in the formants shown, yet they are still interesting to observe as opposed to the waveforms which don't show them at all.
+ 
+In terms of MFCCs, the advantage they have over waveform analysis is that you can analyse the timbral qualities of an audio file and gain timbral information from the graph. This is very helpful as it gives data that is not at all present in a waveform diagram.
  
 ## Week 9 Write Up
 
