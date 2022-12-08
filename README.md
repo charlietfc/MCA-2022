@@ -27,6 +27,13 @@ I ended up choosing Debussy's L51. The pdf imported well enough aside from the f
 
 ## Week 4 
 
+### jSymbolic Analysis of Valse Romantique 
+
+![image](valsefeaturegraph.PNG)
+
+![image](valsepitchclassgraph.PNG)
+
+
 ### Piano Roll and Histogram for Debussy's Valse Romantique, L. 71
 
 ![image](debussyvalsePR.png)
