@@ -27,10 +27,12 @@ I ended up choosing Debussy's L51. The pdf imported well enough aside from the f
 
 ## Week 4 
 
- 
-<img width="369" alt="histogram for debussy" src="https://user-images.githubusercontent.com/113994507/195602256-ff9070e3-96fd-445e-98b6-5375b3e1f49b.png">
+### Piano Roll and Histogram for Debussy's Valse Romantique, L. 71
 
-<img width="369" alt="scatter plot for debussy" src="https://user-images.githubusercontent.com/113994507/195602276-5b370930-0f54-4eba-b64c-b0f761c14903.png">
+![image](debussyvalsePR.png)
+
+![image](debussyvalseHISTO.png)
+
 
 ## Week 5
 
